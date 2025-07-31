@@ -1,6 +1,6 @@
 # 🏥 IUO PCF Clinic Management System
 
-![](basket_analysis.jpeg)
+![](hero1.jpg)
 
 ### ⚠️ **Disclaimer**
 
@@ -9,11 +9,12 @@
 >  
 > If you're a **potential client**, **university administrator**, or **collaborator** interested in a **demo**, **customization**, or **deployment**, please contact me directly:
 
+## 🧑‍💻 Contact
+
 📧 **Email**: [tariofiyoushell@gmail.com](mailto:tariofiyoushell@gmail.com)  
+📱  **Phone**: +234 702 610 8529 
 🌐 **Portfolio**: [https://legacy5234.github.io/My-Portfolio/](https://legacy5234.github.io/My-Portfolio/)  
 🐙 **GitHub**: [Legacy5234](https://github.com/Legacy5234)
-
-## PROJECT BREAKDOWN
 
 
 # 🏥 IUO PCF Clinic Management System – Workflow & Use Case
@@ -99,14 +100,9 @@ This project is ideal for:
 
 ---
 
-## 🧑‍💻 Contact
-
 For demos, customization, or deployment support, contact:
 
-**Shell Tari Ofiyou**  
-📧 tariofiyoushell@gmail.com  
-🔗 [Portfolio](https://legacy5234.github.io/My-Portfolio/)  
-🐙 [GitHub](https://github.com/Legacy5234)
+
 
 ---
 
