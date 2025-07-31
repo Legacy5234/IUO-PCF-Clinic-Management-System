@@ -100,7 +100,7 @@ This project is ideal for:
 
 ---
 
-For demos, customization, or deployment support, contact:
+### 🖼️ Screenshots
 
 <p align="center">
   <img src="img1.png" width="250"/>
@@ -115,32 +115,29 @@ For demos, customization, or deployment support, contact:
 <p align="center">
   <img src="img7.png" width="250"/>
   <img src="img8.png" width="250"/>
-  <img src="img9.png" width="250"/>
+  <img src="img10.png" width="250"/>
 </p>
 <p align="center">
-  <img src="img10.png" width="250"/>
   <img src="img11.png" width="250"/>
   <img src="img12.png" width="250"/>
-</p>
-<p align="center">
   <img src="img13.png" width="250"/>
 </p>
 
+---
 
 ---
 
-> This system was designed and built with real-world operational feedback from clinic staff and medical administrators at Igbinedion University Okada.
+## 🤝 Let’s Collaborate
 
+Interested in using or customizing this system for your institution?
 
-Raw dataset                                 |                Cleaned dataset
-:-----------------------------------------: | :-----------------------------------------:
-![](rawdataset.jpeg)                        |    ![](cleaneddataset.jpeg)
+📧 Reach out at **tariofiyoushell@gmail.com**  
+📱 Call/WhatsApp: **+234 702 610 8529**  
+🌐 [View Portfolio](https://legacy5234.github.io/My-Portfolio/)  
+🐙 [GitHub](https://github.com/Legacy5234)
 
+---
 
-Dashboard
-![](dashboard.jpeg)
-
-Click on the following link to interact with the dashboard. https://app.powerbi.com/groups/me/reports/f8d7a08a-af00-4c02-b422-79292ccaa34d/ReportSection?experience=power-bi
 
 
 
