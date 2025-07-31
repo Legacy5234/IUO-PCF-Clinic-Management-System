@@ -1,5 +1,4 @@
 # 🏥 IUO PCF Clinic Management System
-## POWER BI - BASKET ANALYSIS
 
 ![](basket_analysis.jpeg)
 
