@@ -75,17 +75,14 @@ This platform provides an end-to-end digital workflow for managing clinical oper
 - ✅ Secure storage and access to historical medical data
 - ✅ Easy reporting for audits, student clearance, and compliance
 - ✅ Scalable architecture to allow more modules (e.g., billing, notifications, analytics)
-
+- ✅ Advanced search & filtering for patient records
+- ✅ Export medical reports to PDF
+- ✅ Real-time dashboard analytics for clinic administrators
+  
 ---
 
 ## 🔜 Upcoming Features
-
-- SMS and email reminders for appointments and prescription refills
-- Advanced search & filtering for patient records
-- Export medical reports to PDF
 - Offline-first functionality for clinics with poor internet
-- Real-time dashboard analytics for clinic administrators
-- Multi-clinic support within the university (department-based clinics)
 
 ---
 
