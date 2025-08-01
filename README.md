@@ -64,6 +64,10 @@ This platform provides an end-to-end digital workflow for managing clinical oper
 - Based on availability and dosage, drugs are dispensed and the action logged.
 - Pharmacists can manage inventory and update dispensation status.
 
+### 7. 🌐 Deployment
+- App is hosted on Railway.app with PostgreSQL backend.
+- Environment variables, media/static files, and database migrations are managed via CI/CD practices.
+
 ---
 
 ## 🌟 System Benefits
